@@ -1,0 +1,30 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f0f0f0;
+    flex-direction: column;
+    width: 100%;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    width: 30%;
+    border-radius: 1px solid black;
+    border-radius: 16px;
+    padding: 16px;
+    background-color: white;
+    flex-direction: column;
+    gap: 16px;
+}
+.span{
+    font-size: 20px;
+    
+}
+
